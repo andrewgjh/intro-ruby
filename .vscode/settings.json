@@ -1,3 +1,4 @@
 {
-  "ruby.rubocop.onSave": true
+  "ruby.rubocop.onSave": true,
+  "ruby.rubocop.executePath": "/Users/andrewgjh/.rbenv/shims/"
 }
